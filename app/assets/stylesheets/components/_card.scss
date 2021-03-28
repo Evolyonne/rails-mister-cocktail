@@ -1,0 +1,14 @@
+.cards {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+.card {
+	height: 250px;
+	width: 250px;
+	text-align: center;
+
+}
